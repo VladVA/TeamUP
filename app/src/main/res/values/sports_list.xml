@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Sports">
+        <item>Basketball</item>
+        <item>Footall</item>
+        <item>Tennis</item>
+        <item>Rugby</item>
+        <item>Handball</item>
+        <item>Cycling</item>
+        <item>Pingpong</item>
+        <item>Pinpong</item>
+        <item>Pigpong</item>
+        <item>Pngpong</item>
+        <item>ingpong</item>
+        <item>Pingpon</item>
+        <item>Pingpog</item>
+        <item>Pingpng</item>
+        <item>Pingong</item>
+        <item>Pinpong</item>
+        <item>Pigpong</item>
+        <item>Pngpong</item>
+        <item>ingpong</item>
+        <item>ong</item>
+        <item>g</item>
+
+    </string-array>
+</resources>
